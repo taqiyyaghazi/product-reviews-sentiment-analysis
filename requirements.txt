@@ -12,3 +12,4 @@ pandas
 selenium
 bs4
 requests
+plotly==5.6.0
